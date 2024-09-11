@@ -8,3 +8,4 @@ Questo archivio contiene tutte le ricette preferite di Andrea
 * Risotto ai funghi
 * Penne alla carbonara
 * Minestrone di verdure
+* Salmone al cartoccio
