@@ -6,5 +6,5 @@ Le famose penne alla carbonara
 
 * penne
 * uova
-* pancetta
+* guanciale
 * pepe nero
